@@ -1,9 +1,0 @@
-#!/bin/bash
-ls
-pwd
-cd 
-cat 
-echo
-touch
-chmod 
-chown
